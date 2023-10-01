@@ -1,5 +1,5 @@
 // find the second highest number in the array given by user
-class Secondhig
+class Largestnum
 {
     public static void main(String[] A)
     {
